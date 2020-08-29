@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies Store</string>
+    <string name="titele">Titele</string>
+    <string name="category">Category</string>
+    <string name="display_year">Display year</string>
+    <string name="textview">TextView</string>
+    <string name="imageaa">imageaa</string>
+    <string name="textviewtt">TextViewtt</string>
+    <string name="textviewss">TextViewss</string>
+</resources>
